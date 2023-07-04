@@ -4,7 +4,7 @@ originrevealer is a Tool for extracting possible Origin IPs given a favicon url
 
 ## Installation And Setup
 
-1. clone the project :
+1. clone the project : https://github.com/xxxDanixxx/originrevealer
 ```
 git clone <link>
 ```
